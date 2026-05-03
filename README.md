@@ -1,8 +1,8 @@
 
-# Sudoku Solver Project
+# Sudoku_Solver
 
-## Project Overview
-This project is a Sudoku Solver built using HTML, CSS, and JavaScript.
+## Game Overview
+This Game is a Sudoku Solver built using HTML, CSS, and JavaScript.
 
 It uses the Backtracking Algorithm to solve Sudoku puzzles automatically.
 
