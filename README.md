@@ -25,23 +25,6 @@ It uses the Backtracking Algorithm to solve Sudoku puzzles automatically.
 
 ---
 
-## How to Run
-
-### Method 1 (Easy)
-1. Extract the ZIP file.
-2. Open the folder.
-3. Double-click `index.html`.
-
-The project will open in your browser.
-
-### Method 2 (VS Code)
-1. Open the folder in VS Code.
-2. Install the "Live Server" extension.
-3. Right-click `index.html`.
-4. Click "Open with Live Server".
-
----
-
 ## Algorithm Used
 The project uses the Backtracking Algorithm:
 
